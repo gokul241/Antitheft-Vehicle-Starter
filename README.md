@@ -23,3 +23,5 @@ Several studies have proved the importance of a better security system in the au
 
 ## Requirements
 
+  - Python 3.10
+  - Google Colabaoratory
