@@ -13,3 +13,13 @@ Several studies have proved the importance of a better security system in the au
   - Authentication: When attempting to start the vehicle, the system captures the user's face and compares it against the enrolled biometric data.
   - Access Granting: If the facial recognition matches an authorized user, the system grants access to start the vehicle.
   - Access Denied: If the facial recognition does not match any enrolled user or if there are multiple failed attempts, access to the vehicle is denied.
+
+## Algorithm Used
+
+  - MTCNN
+  - Facenet
+  - SVM
+  - MobileNet-V2
+
+## Requirements
+
